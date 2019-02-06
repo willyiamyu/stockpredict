@@ -1,2 +1,3 @@
 # stockpredict
-python running script that makes predictions of given stock
+Makes next day stock prediction
+Fetches real time stock quotes through Quandl API to use as training data
